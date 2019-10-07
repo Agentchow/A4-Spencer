@@ -21,7 +21,7 @@ public class MutablePixelArrayPicture implements Picture {
             }
         }
     }
-
+//test
     // Creates new object by providing geometry of picture and an initial value for
     // all pixels.
     public MutablePixelArrayPicture(int width, int height, Pixel initial_value) {
